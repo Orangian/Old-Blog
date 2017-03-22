@@ -1,9 +1,9 @@
 ---
 title: Portfolio
-date: 2017-03-22 08:02:00 -04:00
+date: 2017-03-22 08:08:00 -04:00
 ---
 
-[Founder and Former Leader of Gamerland: Source Gaming Community (2014-2016](https://steamcommunity.com/groups/gamerlandsource)
+[Founder and Former Leader of Gamerland: Source Gaming Community (2014-2016)](https://steamcommunity.com/groups/gamerlandsource)
 
 Nagel Tech Assistant (7th Grade)
 
