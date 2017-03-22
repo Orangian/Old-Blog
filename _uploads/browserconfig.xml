@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="fheduemil.github.io/assets/images/mstile-70x70.png"/>
+            <TileColor>#0e1b2e</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
