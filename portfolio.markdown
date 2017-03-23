@@ -15,7 +15,6 @@ Nagel Tech Assistant (7th Grade)
 [Finch Pong Project (8th Grade)](https://drive.google.com/file/d/0By2xwqmsXLFyU2tJb1BDNHlscWR4LU9OM1ItQjZGRUpJTk4w/preview)
 ![FinchLogoView.gif](/uploads/FinchLogoView.gif)
 
-
 [GetToClass Blog (2016-Now)](https://gettoclass.cf/)
 ![22838750.jpg](/uploads/22838750.jpg)
 
