@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-date: 2017-03-23 08:19:00 -04:00
+date: 2017-03-23 08:23:00 -04:00
 ---
 
 [Founder and Former Leader of Gamerland: Source Gaming Community (2014-2016)](https://steamcommunity.com/groups/gamerlandsource)
@@ -14,7 +14,6 @@ Nagel Tech Assistant (7th Grade)
 
 [Finch Pong Project (8th Grade)](https://drive.google.com/file/d/0By2xwqmsXLFyU2tJb1BDNHlscWR4LU9OM1ItQjZGRUpJTk4w/preview)
 ![FinchLogoView.gif](/uploads/FinchLogoView.gif)
-
 
 [GetToClass Blog (2016-Now)](https://gettoclass.cf/)
 ![22838750.jpg](/uploads/22838750.jpg)
