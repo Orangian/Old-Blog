@@ -47,7 +47,7 @@ nav:
 - name: Archive
   url: "/archive"
 - name: Portfolio
-  url: "/uploads/EMIL.mhtml"
+  url: "/uploads/EMIL.html"
 - name: Tags
   url: "/tags"
 - name: Github
