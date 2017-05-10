@@ -46,8 +46,6 @@ nav:
   url: "/about"
 - name: Archive
   url: "/archive"
-- name: Portfolio
-  url: ''
 - name: Tags
   url: "/tags"
 - name: Github
