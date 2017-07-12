@@ -1,6 +1,6 @@
 #GET TO CLASS
 
-My blog running on Jekyll Bootstrap and the Kiko Plus theme.
+A blog running on Jekyll Bootstrap (+ Kiko Plus) with Cloudflare for the Get To Class! podcast.
 
 
 now [get to class](http://gettoclass.cf/)!
