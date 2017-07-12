@@ -23,11 +23,11 @@ name: Get To Class
 author:
   name: Emil Sayahi
   "//facebook": your-id
-  "//twitter": your-id
+  twitter: gettoclassblah
   github: FHEDUEmil
   "//linkedin": your-id
   "//medium": your-id
-  tumblr: gettoclassblah
+  "//tumblr": your-id
   email: emil@mail.gettoclass.cf
 google-analytics:
   id: UA-85744932-1
