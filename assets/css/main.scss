@@ -9,11 +9,21 @@ sitemap: false
 
 .navbar .nav > li > a.brand-image {
       padding: 4px 0px 0px 0px;
-      transform: rotate(180deg);
+      .img-hor-vert {
+    -moz-transform: scale(-1, -1);
+    -o-transform: scale(-1, -1);
+    -webkit-transform: scale(-1, -1);
+    transform: scale(-1, -1);
+}
 }
 .navbar .nav > li > a > img.brand-image {
     -webkit-border-radius: 0px;
        -moz-border-radius: 0px;
             border-radius: 0px;
-      transform: rotate(180deg);
+      .img-hor-vert {
+    -moz-transform: scale(-1, -1);
+    -o-transform: scale(-1, -1);
+    -webkit-transform: scale(-1, -1);
+    transform: scale(-1, -1);
+}
 }
