@@ -7,7 +7,7 @@ sitemap: false
 @import "highlighter";
 @import "site";
 
-.navbar .nav > li > a.brand-image {
+.navbar .nav > a.brand-image {
       padding: 4px 0px 0px 0px;
       .img-hor-vert {
     -moz-transform: scale(-1, -1);
@@ -16,7 +16,7 @@ sitemap: false
     transform: scale(-1, -1);
 }
 }
-.navbar .nav > li > a > img.brand-image {
+.navbar .nav > a > img.brand-image {
     -webkit-border-radius: 0px;
        -moz-border-radius: 0px;
             border-radius: 0px;
