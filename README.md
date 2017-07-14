@@ -1,6 +1,3 @@
-#GET TO CLASS
+#TY-ET-SA
 
-A blog running on Jekyll Bootstrap (+ Kiko Plus) with Cloudflare for the Get To Class! podcast.
-
-
-now [get to class](http://gettoclass.cf/)!
+My blog running on Jekyll Bootstrap (+ Kiko Plus) with Cloudflare.
