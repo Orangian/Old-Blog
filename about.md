@@ -1,9 +1,9 @@
 ---
 title: About
-date: 2017-07-12 06:24:00 -04:00
+date: 2017-07-14 16:15:00 -04:00
 permalink: "/about/"
 ---
 
-This site is for a planned upcoming podcast. Catch news relating to the cast, and community alongside released episodes once it launches.
+This is my personal blog where I talk about whatever I want and you cannot stop me!
 
-[website source code](https://github.com/FHEDUEmil/fheduemil.github.io)
+[website source code](https://github.com/Orangian/orangian.github.io)
