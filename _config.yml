@@ -1,5 +1,5 @@
 ---
-title: get to class
+title: Ty-Et-Sa!
 timezone: America/New_York
 collections:
   posts:
@@ -19,21 +19,21 @@ defaults:
     type: posts
   values:
     layout: post
-name: Get To Class
+name: Ty-Et-Sa!
 author:
-  name: Emil Sayahi
+  name: Ty Sayahi
   "//facebook": your-id
-  twitter: gettoclassblah
-  github: FHEDUEmil
+  "//twitter": your-id
+  github: Orangian
   "//linkedin": your-id
   "//medium": your-id
   "//tumblr": your-id
-  email: hosts@gettoclass.cf
+  email: ty@tyetsa.tk
 google-analytics:
-  id: UA-85744932-1
+  id: UA-102589703-1
 disqus:
-  id: gettoclass
-url: https://fheduemil.github.io/
+  id: tyetsa
+url: https://orangian.github.io/
 baseurl: 
 permalink: "/:year-:month-:day/:title/"
 paginate: 5
@@ -49,7 +49,7 @@ nav:
 - name: Tags
   url: "/tags"
 - name: GitHub
-  url: https://github.com/FHEDUEmil
+  url: https://github.com/Orangian
 sass:
   sass_dir: _sass
   style: compressed
