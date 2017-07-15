@@ -49,7 +49,7 @@ nav:
 - name: Tags
   url: "/tags"
   - name: RSS
-  url: "/rss.xml"
+  url: "/feed.xml"
 - name: GitHub
   url: https://github.com/Orangian
 sass:
