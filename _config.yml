@@ -46,6 +46,8 @@ nav:
   url: "/about"
 - name: Archive
   url: "/archive"
+- name: Videos
+  url: "/videos"
 - name: Tags
   url: "/tags"
 - name: RSS
