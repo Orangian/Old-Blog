@@ -1,5 +1,5 @@
 ---
-title: Cat
+title: My Cat
 date: 2017-10-06 11:04:00 -04:00
 categories:
 - Cat
