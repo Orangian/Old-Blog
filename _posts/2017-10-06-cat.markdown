@@ -9,5 +9,6 @@ tags:
 - Pet
 ---
 
-This is my cat named Charles. It was a stray that started sleeping in our yard. We started giving it food and water and now it is our cat.![4477394226228888238-account_id=0.jpg](/uploads/4477394226228888238-account_id=0.jpg)
-![4242547792523398753-account_id=0.jpg](/uploads/4242547792523398753-account_id=0.jpg)
+This is my cat named Charles. It was a stray that started sleeping in our yard. We started giving it food and water and now it is our cat.[4477394226228888238-account_id=0.jpg](/uploads/4477394226228888238-account_id=0.jpg)
+Here is another picture,
+![4242547792523398753-account_id=0-668289.jpg](/uploads/4242547792523398753-account_id=0-668289.jpg)
