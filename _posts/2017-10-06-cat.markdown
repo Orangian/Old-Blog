@@ -1,6 +1,12 @@
 ---
 title: Cat
 date: 2017-10-06 11:04:00 -04:00
+categories:
+- Cat
+- Pet
+tags:
+- Cat
+- Pet
 ---
 
 This is my cat named Charles. It was a stray that started sleeping in our yard. We started giving it food and water and now it is our cat.![4477394226228888238-account_id=0.jpg](/uploads/4477394226228888238-account_id=0.jpg)
