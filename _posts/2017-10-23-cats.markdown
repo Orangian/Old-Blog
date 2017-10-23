@@ -1,0 +1,18 @@
+---
+title: Cats
+date: 2017-10-23 12:24:00 -04:00
+categories:
+- Cat
+- Yard
+- Cats
+- Pets
+- Pet
+tags:
+- Cat
+- Yard
+- Cats
+- Pets
+- Pet
+---
+
+Ever since I last blogged about cats, two new cats have appeared in my yard. A new black cat appeared. It fought with my cat Charles. There is also an orange cat. It is passive unlike the black cat, and has never fought the other cats.
