@@ -1,6 +1,7 @@
 ---
 title: Group Projects
 date: 2017-10-24 12:37:00 -04:00
+published: false
 categories:
 - Random
 - School
