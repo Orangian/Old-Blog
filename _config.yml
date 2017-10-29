@@ -46,8 +46,6 @@ nav:
   url: "/about"
 - name: Archive
   url: "/archive"
-- name: Videos
-  url: https://www.youtube.com/tysayahi1/videos
 - name: Tags
   url: "/tags"
 - name: RSS
