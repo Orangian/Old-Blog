@@ -1,0 +1,8 @@
+---
+title: 6th Grade
+date: 2017-11-01 09:59:00 -04:00
+---
+
+Hello! My name is Ty Ethan Sayahi, and I am currently in sixth grade. This year has been going amazing so far! After Christmas break, we will be building our own robots! Not those kinds of robots that can only be assembled in one way, and have preset actions, but a robotic kit which you program in javascript and you assemble in any way you want! The classes have also been amazing! We are using a tool called "Amplify" in science class.    
+
+Its a science program that even supplies schools using it with most of the equipment needed for the experiments! We will be doing a lot of experiments this year (I hope at least).   We have also been learning a lot in math class. Reading class is great too. My teachers are also great! The only downside of this year is, since the building has been going under restructuring for a few years, sixth grade does not have lockers this year. This may sound like a tiny thing, however this means that we have to carry 
