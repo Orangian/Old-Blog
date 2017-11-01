@@ -5,4 +5,4 @@ tags:
 - hello
 ---
 
-Hi! This is my first post on this site. Some school assignments will be coming here soon, so please stay tuned! (Edit a few of my posts were deleted when editing my website, will post new ones in their place soon.
+Hi! This is my first post on this site. Some school assignments will be coming here soon, so please stay tuned! (Edit a few of my posts were deleted when editing my website, so I will post new ones in their place soon.)
