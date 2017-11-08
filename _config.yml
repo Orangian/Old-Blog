@@ -52,7 +52,7 @@ nav:
   url: "/feed.xml"
 - name: GitHub
   url: https://github.com/Orangian
-- name: My Digital Portfolio (Class Assignment)
+- name: Digital Portfolio
   url: "/my-digital-portfolio-class-assignment"
 sass:
   sass_dir: _sass
