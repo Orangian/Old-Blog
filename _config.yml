@@ -41,19 +41,6 @@ paginate_path: "/page:num/"
 markdown: kramdown
 kramdown:
   imput: GFM
-nav:
-- name: About
-  url: "/about"
-- name: Archive
-  url: "/archive"
-- name: Tags
-  url: "/tags"
-- name: RSS
-  url: "/feed.xml"
-- name: GitHub
-  url: https://github.com/Orangian
-- name: My Digital Portfolio (Class Assignment)
-  url: "/my-digital-portfolio-class-assignment"
 sass:
   sass_dir: _sass
   style: compressed
