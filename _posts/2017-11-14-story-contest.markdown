@@ -1,6 +1,6 @@
 ---
 title: Story Contest!
-date: 2017-11-15 10:02:00 -05:00
+date: 2017-11-14 11:45:00 -05:00
 tags:
 - Contest
 ---
