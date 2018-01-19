@@ -1,5 +1,5 @@
 ---
-title: Codenames Pictures Game Review
+title: 'Codenames: Pictures (Game Review)'
 date: 2018-01-10 15:17:00 -05:00
 ---
 
