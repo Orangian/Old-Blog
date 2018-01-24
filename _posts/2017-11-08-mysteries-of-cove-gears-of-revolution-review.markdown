@@ -1,5 +1,5 @@
 ---
-title: 'Mysteries Of Cove: Gears Of Revolution Review'
+title: 'Mysteries Of Cove: Gears Of Revolution Review (Book Review)'
 date: 2017-11-08 09:36:00 -05:00
 tags:
 - Book
