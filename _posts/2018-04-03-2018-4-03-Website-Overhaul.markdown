@@ -1,7 +1,9 @@
 ---
+title: Website overhaul incoming!
+date: 2018-04-03 00:00:00 -04:00
+tags:
+- Website Overhaul
 layout: post
-title: "Website overhaul incoming!"
-tags: [Website Overhaul]
 comments: true
 ---
 
